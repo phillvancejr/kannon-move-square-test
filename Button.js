@@ -1,0 +1,1 @@
+const Button=Object.freeze({invalid:0,w:1,a:2,s:3,d:4,j:5,arrow_left:6,arrow_up:7,arrow_right:8,arrow_down:9,space:10,esc:11,count:12})
